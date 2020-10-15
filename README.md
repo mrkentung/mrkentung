@@ -7,3 +7,9 @@ You can drop me a message on twitter - [🐦 @mrkentunggg](https://twitter.com/m
 #### Scripting / Programming Language
 - Javascript (reactjs)
 - PHP
+
+#### Interesting in
+- Nodejs
+- Typescript
+- Deno
+- Flutter
